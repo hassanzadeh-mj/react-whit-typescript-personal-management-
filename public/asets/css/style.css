@@ -1,0 +1,23 @@
+@font-face {
+    font-family: "Vaziry";
+    src: url("/public/asets/fonts/Vazir.ttf") format(ttf);
+    src:url("/public/asets/fonts/Vazir.woff")format(woff);
+    src:url("/public/asets/fonts/Vazir.eot")format(eot);
+    src:url("/public/asets/fonts/Vazir.woff2")format(woff2);
+    font-weight: normal;
+    font-style: normal;
+}
+body{
+   background-color: #fff;
+   color: #444;
+   font-family: "Vaziry";
+   text-align: center;
+   margin: 1rem;
+}
+.operation_btns{
+}
+.deletIcon{
+    position: absolute;
+    left: 0px;  
+    font-size: 30px;
+}
